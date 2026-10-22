@@ -12,7 +12,7 @@ While replicating the core `micrograd` autograd engine, I extended the base `Val
 
 
 ## 📂 Project Structure
-* `01_micrograd/`(https://github.com/Myltyk/zero-to-hero-course/blob/main/01_micrograd_personal_notebook.ipynb) — Scalar autograd library & basic MLP (Completed with extensions)
+* [`01_micrograd/`](https://github.com/Myltyk/zero-to-hero-course/blob/main/01_micrograd_personal_notebook.ipynb) — Scalar autograd library & basic MLP (Completed with extensions)
 
 
 ## 🙏 Acknowledgments
